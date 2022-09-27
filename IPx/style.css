@@ -1,0 +1,1008 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background: radial-gradient(50% 50%at 50% 50%, #3e67ff, #e47298);
+    width: 174px;
+    height: 56px;
+  }
+  .pay-via-paypal {
+    position: absolute;
+    top: 16px;
+    left: 31px;
+    display: inline-block;
+  }
+  .buy-now-div,
+  .group-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 174px;
+    height: 56px;
+  }
+  .group-div {
+    top: 396px;
+    left: 214px;
+    text-align: center;
+  }
+  .payment-options-div {
+    position: absolute;
+    top: 2px;
+    left: 26px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+    display: inline-block;
+    opacity: 0.7;
+  }
+  .rectangle-div1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 4px;
+    background-color: #d9d9d9;
+    width: 16px;
+    height: 16px;
+  }
+  .agree-to-terms {
+    position: absolute;
+    top: 358px;
+    left: 36px;
+    width: 457px;
+    height: 16px;
+    font-size: 14px;
+  }
+  .b,
+  .current-price-div {
+    position: absolute;
+    display: inline-block;
+  }
+  .current-price-div {
+    top: 20px;
+    left: 0;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+  }
+  .b {
+    top: 0;
+    left: 433px;
+    font-size: 40px;
+    line-height: 52px;
+    font-family: Zuume;
+  }
+  .group-div2,
+  .group-div3,
+  .line-div {
+    position: absolute;
+    top: 160px;
+    left: 36px;
+    width: 492px;
+    height: 52px;
+  }
+  .group-div3,
+  .line-div {
+    top: 233px;
+    width: 472px;
+  }
+  .line-div {
+    top: 58.5px;
+    left: -0.5px;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    width: 601px;
+    height: 1px;
+    opacity: 0.2;
+  }
+  .sale-ends-on-20-june-2022-at {
+    position: absolute;
+    top: 23px;
+    left: 36px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .rectangle-div2 {
+    position: absolute;
+    top: -0.5px;
+    left: 0.5px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 600px;
+    height: 493px;
+    opacity: 0.5;
+  }
+  .purchase-details-div {
+    position: absolute;
+    top: 445px;
+    left: 692px;
+    width: 600px;
+    height: 492px;
+    font-size: 16px;
+  }
+  .line-div1,
+  .line-div2 {
+    position: absolute;
+    top: 97.5px;
+    left: -0.5px;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    width: 601px;
+    height: 1px;
+    opacity: 0.2;
+  }
+  .line-div2 {
+    top: 167.5px;
+  }
+  .follow-nft-div {
+    position: absolute;
+    top: 5px;
+    left: 36px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+    display: inline-block;
+    opacity: 0.7;
+  }
+  .frame-icon,
+  .group-div4 {
+    position: absolute;
+    height: 24px;
+  }
+  .frame-icon {
+    top: 0;
+    left: 0;
+    width: 24px;
+    overflow: hidden;
+    opacity: 0.7;
+  }
+  .group-div4 {
+    top: 120px;
+    left: 300px;
+    width: 114px;
+    font-size: 14px;
+  }
+  .common-share-b,
+  .investment-option-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 6.79px;
+    display: inline-block;
+  }
+  .investment-option-div {
+    top: 0.44px;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+    font-family: "Visby CF";
+    opacity: 0.5;
+  }
+  .group-div5 {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    width: 289px;
+    height: 82px;
+    font-size: 46px;
+    font-family: Zuume;
+  }
+  .owned-by-div,
+  .rahul-roy-div {
+    position: absolute;
+    left: 0;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .owned-by-div {
+    top: 0;
+    opacity: 0.5;
+  }
+  .rahul-roy-div {
+    top: 21px;
+    font-size: 14px;
+  }
+  .group-div6,
+  .group-div7 {
+    position: absolute;
+    top: 112.44px;
+    left: 138px;
+    width: 71px;
+    height: 33px;
+  }
+  .group-div7 {
+    left: 1px;
+    width: 46px;
+  }
+  .nft-project-details {
+    position: absolute;
+    top: 233px;
+    left: 692px;
+    width: 600px;
+    height: 168px;
+    font-size: 12px;
+  }
+  .cover-image-icon {
+    position: absolute;
+    top: 233px;
+    left: 93px;
+    border-radius: 13.56px;
+    width: 534px;
+    height: 704px;
+    object-fit: cover;
+  }
+  .ellipse-icon,
+  .group-icon,
+  .group-icon1 {
+    position: absolute;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .group-icon {
+    height: 30.29%;
+    width: 4.1%;
+    top: 66.02%;
+    right: 88.11%;
+    bottom: 3.69%;
+    left: 7.79%;
+    object-fit: cover;
+  }
+  .ellipse-icon,
+  .group-icon1 {
+    height: 27.91%;
+    width: 3.22%;
+    top: 72.09%;
+    right: 7.92%;
+    bottom: 0;
+    left: 88.85%;
+  }
+  .ellipse-icon {
+    height: 5.81%;
+    width: 0.67%;
+    top: 74.42%;
+    right: 7.99%;
+    bottom: 19.77%;
+    left: 91.34%;
+  }
+  .rectangle-div3 {
+    position: absolute;
+    height: 26.16%;
+    width: 96.71%;
+    top: 0;
+    right: 2.15%;
+    bottom: 73.84%;
+    left: 1.14%;
+    background-color: #f61354;
+  }
+  .please-link-your-metamask-wall {
+    position: relative;
+    display: inline-block;
+  }
+  .ellipse-icon1 {
+    position: relative;
+    width: 4px;
+    height: 4px;
+    flex-shrink: 0;
+  }
+  .frame-div {
+    position: absolute;
+    height: 16.28%;
+    width: 100%;
+    top: 5.23%;
+    right: 0;
+    bottom: 78.49%;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 11px;
+  }
+  .group-div8 {
+    position: absolute;
+    top: 0;
+    left: -17px;
+    width: 1489px;
+    height: 172px;
+    font-size: 17.97px;
+  }
+  .b2,
+  .how-many-units-do-you-want-to {
+    position: absolute;
+    display: inline-block;
+  }
+  .how-many-units-do-you-want-to {
+    top: 18px;
+    left: 0;
+    letter-spacing: 1px;
+    line-height: 12px;
+    font-weight: 500;
+  }
+  .b2 {
+    top: 4px;
+    left: 8px;
+    line-height: 40px;
+  }
+  .rectangle-div4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 74px;
+    height: 48px;
+  }
+  .arrow-icon {
+    position: absolute;
+    top: 20.81px;
+    left: 52.81px;
+    width: 10.38px;
+    height: 5.89px;
+  }
+  .group-div10,
+  .group-div9 {
+    position: absolute;
+    height: 48px;
+  }
+  .group-div10 {
+    top: 0;
+    left: 430px;
+    width: 74px;
+    font-size: 40px;
+    font-family: Zuume;
+  }
+  .group-div9 {
+    top: 536px;
+    left: 728px;
+    width: 504px;
+    font-size: 16px;
+  }
+  .about-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: inline-block;
+    opacity: 0.4;
+  }
+  .customer-support-div,
+  .knowledge-base-div,
+  .privacy-policy-div,
+  .terms-of-use {
+    position: absolute;
+    top: 0;
+    left: 82.98px;
+    font-weight: 500;
+    display: inline-block;
+    opacity: 0.4;
+  }
+  .customer-support-div,
+  .knowledge-base-div,
+  .privacy-policy-div {
+    left: 211.96px;
+  }
+  .customer-support-div,
+  .knowledge-base-div {
+    left: 350.95px;
+  }
+  .customer-support-div {
+    left: 511.93px;
+  }
+  .footer-links-div {
+    position: absolute;
+    top: 4299px;
+    left: 103px;
+    width: 645.93px;
+    height: 25px;
+    font-size: 16px;
+  }
+  .more-from-this-project {
+    position: absolute;
+    top: 80px;
+    left: 36px;
+    font-size: 28px;
+    line-height: 44px;
+    font-family: "Visby CF";
+    display: inline-block;
+  }
+  .group-icon2,
+  .group-icon3 {
+    position: absolute;
+    top: 89px;
+    left: 410.62px;
+    width: 27.48px;
+    height: 27.48px;
+  }
+  .group-icon3 {
+    left: 373.8px;
+  }
+  .lambiyan-div,
+  .owned-by-pallav-bajjuri {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .owned-by-pallav-bajjuri {
+    top: 20.09px;
+    font-size: 11.09px;
+    font-weight: 500;
+    color: #ebebeb;
+  }
+  .group-div12 {
+    position: absolute;
+    top: 212.01px;
+    left: 64.44px;
+    width: 130px;
+    height: 37.09px;
+    font-size: 12.47px;
+    font-family: "Visby CF";
+  }
+  .unsplashfjvxueyf1aa-icon {
+    position: absolute;
+    top: 212.01px;
+    left: 14.55px;
+    width: 33.26px;
+    height: 33.26px;
+    object-fit: cover;
+  }
+  .rectangle-div5,
+  .unsplash3sf-g9m0gcq-icon {
+    position: absolute;
+    left: 14.55px;
+    border-radius: 11.09px;
+    width: 257.74px;
+  }
+  .unsplash3sf-g9m0gcq-icon {
+    top: 14.55px;
+    height: 175.29px;
+    object-fit: cover;
+  }
+  .rectangle-div5 {
+    top: 271.76px;
+    background-color: #080808;
+    height: 45.04px;
+  }
+  .price-inr-573000 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .group-div13,
+  .rectangle-div6 {
+    position: absolute;
+    top: 287.01px;
+    left: 32.56px;
+    width: 90px;
+    height: 14px;
+  }
+  .rectangle-div6 {
+    top: 279.39px;
+    left: 183.61px;
+    border-radius: 75.45px;
+    background: radial-gradient(50% 50%at 50% 50%, #3e67ff, #e47298);
+    width: 79.68px;
+    height: 29.79px;
+  }
+  .buy-now {
+    position: absolute;
+    top: 287.33px;
+    left: 204.64px;
+    display: inline-block;
+  }
+  .group-div11,
+  .group-div15,
+  .nft-card-bid {
+    position: absolute;
+    width: 286.92px;
+    height: 330.25px;
+  }
+  .nft-card-bid {
+    top: 0;
+    left: 0;
+    border-radius: 16.63px;
+    background-color: #121212;
+    overflow: hidden;
+  }
+  .group-div11,
+  .group-div15 {
+    top: 149.02px;
+    left: 34.95px;
+  }
+  .group-div15 {
+    top: 212.01px;
+    left: 64.43px;
+    width: 130px;
+    height: 37.09px;
+    font-size: 12.47px;
+    font-family: "Visby CF";
+  }
+  .group-div14,
+  .rectangle-div10 {
+    position: absolute;
+    top: 149.02px;
+    left: 350.08px;
+    width: 286.92px;
+    height: 330.25px;
+  }
+  .rectangle-div10 {
+    top: 279.39px;
+    left: 183.6px;
+    border-radius: 75.45px;
+    background: radial-gradient(50% 50%at 50% 50%, #3e67ff, #e47298);
+    width: 79.68px;
+    height: 29.79px;
+  }
+  .group-div17,
+  .group-div22 {
+    position: absolute;
+    top: 149.02px;
+    left: 665.2px;
+    width: 286.92px;
+    height: 330.25px;
+  }
+  .group-div22 {
+    top: 287.01px;
+    left: 32.57px;
+    width: 90px;
+    height: 14px;
+  }
+  .buy-now3 {
+    position: absolute;
+    top: 287.33px;
+    left: 204.65px;
+    display: inline-block;
+  }
+  .group-div20,
+  .rectangle-div13 {
+    position: absolute;
+    top: 149.02px;
+    left: 980.34px;
+    width: 286.92px;
+    height: 330.25px;
+  }
+  .rectangle-div13 {
+    top: 132px;
+    left: 1071.27px;
+    background: linear-gradient(-90deg, #000, transparent);
+    width: 262.99px;
+    height: 386.35px;
+  }
+  .rectangle-div14 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 27px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 208px;
+    height: 54px;
+  }
+  .view-project-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0px;
+    line-height: 12px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .group-div23,
+  .group-div24 {
+    position: absolute;
+    top: 21px;
+    left: 55px;
+    width: 98px;
+    height: 12px;
+  }
+  .group-div23 {
+    top: 543px;
+    left: 558px;
+    width: 208px;
+    height: 54px;
+    font-size: 12px;
+    font-family: Poppins;
+  }
+  .line-div3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1327px;
+    height: 0;
+  }
+  .more-from-project {
+    position: absolute;
+    top: 3597px;
+    left: 53px;
+    width: 1334.27px;
+    height: 597px;
+    font-size: 9.7px;
+    font-family: Heebo;
+  }
+  .group-icon4 {
+    position: absolute;
+    top: 223px;
+    left: 64px;
+    width: 50px;
+    height: 37.5px;
+    object-fit: cover;
+    opacity: 0.5;
+  }
+  .discord-span {
+    font-weight: 800;
+  }
+  .join-discord-div {
+    position: absolute;
+    top: 65px;
+    left: 64px;
+    line-height: 130%;
+    display: inline-block;
+    width: 122px;
+    height: 83px;
+    opacity: 0.5;
+  }
+  .rectangle-div15 {
+    background-color: #222;
+    opacity: 0.5;
+  }
+  .group-div26,
+  .rectangle-div15,
+  .rectangle-div16 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 342px;
+    height: 342px;
+  }
+  .rectangle-div16 {
+    background-color: #2f2f2f;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    opacity: 0.6;
+  }
+  .share-p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .link-p {
+    margin: 0;
+  }
+  .share-link-div {
+    position: absolute;
+    top: 65px;
+    left: 61px;
+    line-height: 116%;
+    display: inline-block;
+    width: 91px;
+  }
+  .frame-icon1 {
+    position: absolute;
+    top: 223px;
+    left: 141px;
+    width: 40px;
+    height: 40px;
+    opacity: 0.5;
+  }
+  .ant-designinstagram-filled-icon,
+  .frame-icon2 {
+    position: absolute;
+    top: 223px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .ant-designinstagram-filled-icon {
+    left: 221px;
+    opacity: 0.5;
+  }
+  .frame-icon2 {
+    left: 61px;
+  }
+  .group-div27 {
+    position: absolute;
+    top: 0;
+    left: 358px;
+    width: 342px;
+    height: 342px;
+  }
+  .explore-on-chain,
+  .frame-icon3 {
+    position: absolute;
+    left: 64px;
+    opacity: 0.5;
+  }
+  .explore-on-chain {
+    top: 65px;
+    line-height: 130%;
+    display: inline-block;
+    width: 139px;
+    height: 83px;
+  }
+  .frame-icon3 {
+    top: 223px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+  }
+  .group-div25,
+  .group-div28,
+  .line-div4 {
+    position: absolute;
+    top: 0;
+    left: 716px;
+    width: 342px;
+    height: 342px;
+  }
+  .group-div25,
+  .line-div4 {
+    top: 105px;
+    left: 64px;
+    width: 1058px;
+  }
+  .line-div4 {
+    top: 59.03px;
+    left: -0.5px;
+    border-top: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1200px;
+    height: 1px;
+    opacity: 0.2;
+  }
+  .stay-connected-b {
+    position: absolute;
+    top: 25.04px;
+    left: 71.94px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 12px;
+    display: inline-block;
+    width: 933.22px;
+    height: 23.5px;
+  }
+  .rectangle-div18 {
+    position: absolute;
+    top: -0.5px;
+    left: 1.5px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1198px;
+    height: 516px;
+    opacity: 0.5;
+  }
+  .stay-connected-div {
+    position: absolute;
+    top: 3013px;
+    left: 90px;
+    width: 1199px;
+    height: 515px;
+    font-size: 30px;
+  }
+  .line-div5,
+  .line-div6 {
+    position: absolute;
+    top: 195.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    width: 625px;
+    height: 1px;
+  }
+  .line-div6 {
+    top: 323.5px;
+  }
+  .div,
+  .div1,
+  .div2,
+  .lorem-ipsum-dolor-sit-amet-co {
+    position: absolute;
+    width: 2.82%;
+    top: calc(50% - 216.5px);
+    right: 3.29%;
+    left: 93.88%;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .div1,
+  .div2,
+  .lorem-ipsum-dolor-sit-amet-co {
+    width: 2.94%;
+    top: calc(50% - 12.5px);
+    right: 3.18%;
+  }
+  .div2,
+  .lorem-ipsum-dolor-sit-amet-co {
+    top: calc(50% - -126.5px);
+  }
+  .lorem-ipsum-dolor-sit-amet-co {
+    width: 78.35%;
+    top: calc(50% - 148.5px);
+    right: 21.65%;
+    left: 0;
+    font-size: 18px;
+    line-height: 144%;
+    font-weight: 500;
+    opacity: 0.7;
+  }
+  .infographic-with-icons-would,
+  .infographic-with-icons-would1,
+  .should-we-put-all-four-in-the {
+    position: absolute;
+    width: 75.21%;
+    top: calc(50% - 188.5px);
+    right: 24.79%;
+    left: 0;
+    font-size: 20px;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .infographic-with-icons-would,
+  .infographic-with-icons-would1 {
+    width: 76.82%;
+    top: calc(50% - -2.5px);
+    right: 23.18%;
+  }
+  .infographic-with-icons-would1 {
+    top: calc(50% - -130.5px);
+  }
+  .group-div29,
+  .rectangle-div20 {
+    position: absolute;
+    top: 78px;
+    left: 509px;
+    width: 624px;
+    height: 433px;
+  }
+  .rectangle-div20 {
+    top: 130.5px;
+    left: 69.5px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 395px;
+    height: 313px;
+    opacity: 0.5;
+  }
+  .how-to-buy,
+  .line-div8 {
+    position: absolute;
+    top: 2429px;
+    left: 88px;
+    width: 1199px;
+    height: 515px;
+  }
+  .line-div8 {
+    top: 185.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    width: 1064px;
+    height: 1px;
+  }
+  .div3,
+  .div4,
+  .lorem-ipsum-dolor-sit-amet-co1 {
+    position: absolute;
+    width: 2.82%;
+    top: calc(50% - 147px);
+    right: 3.29%;
+    left: 93.88%;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .div4,
+  .lorem-ipsum-dolor-sit-amet-co1 {
+    width: 2.94%;
+    top: calc(50% - -57px);
+    right: 3.18%;
+  }
+  .lorem-ipsum-dolor-sit-amet-co1 {
+    width: 78.35%;
+    top: calc(50% - 79px);
+    right: 21.65%;
+    left: 0;
+    font-size: 18px;
+    line-height: 144%;
+    font-weight: 500;
+    opacity: 0.7;
+  }
+  .infographic-with-icons-would2,
+  .should-we-put-all-four-in-the1 {
+    position: absolute;
+    width: 43.88%;
+    top: calc(50% - 119px);
+    right: 56.12%;
+    left: 0;
+    font-size: 20px;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .infographic-with-icons-would2 {
+    width: 76.82%;
+    top: calc(50% - -72px);
+    right: 23.18%;
+  }
+  .group-div30,
+  .rectangle-div21 {
+    position: absolute;
+    top: 60px;
+    left: 70px;
+    width: 1063px;
+    height: 294px;
+  }
+  .rectangle-div21 {
+    top: -0.5px;
+    left: 1.5px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1198px;
+    height: 376px;
+    opacity: 0.5;
+  }
+  .line-div13,
+  .terms-of-purchase,
+  .terms-of-purchase1 {
+    position: absolute;
+    top: 1557px;
+    left: 88px;
+    width: 1199px;
+    height: 375px;
+  }
+  .line-div13,
+  .terms-of-purchase1 {
+    top: 1993px;
+  }
+  .line-div13 {
+    top: 313.5px;
+    left: -0.5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    box-sizing: border-box;
+    width: 1064px;
+    height: 1px;
+  }
+  .should-we-put-all-four-in-the3 {
+    position: absolute;
+    width: 43.88%;
+    top: calc(50% - 188.5px);
+    right: 56.12%;
+    left: 0;
+    font-size: 20px;
+    line-height: 140%;
+    display: inline-block;
+  }
+  .benefits-div,
+  .group-div32 {
+    position: absolute;
+    top: 60px;
+    left: 70px;
+    width: 1063px;
+    height: 433px;
+  }
+  .benefits-div {
+    top: 981px;
+    left: 88px;
+    width: 1199px;
+    height: 515px;
+  }
+  .units-to-buy {
+    position: relative;
+    background-color: #000;
+    width: 100%;
+    height: 4369px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 58px;
+    color: #fff;
+    font-family: "Visby CF";
+  }
+  
